@@ -10,3 +10,5 @@ For each app run the following commands:
 npm i
 npm start
 ```
+
+You can find the content of a single calendar card at localhost:3002, and the christmas calendar at localhost:3001
