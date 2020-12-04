@@ -16,7 +16,6 @@ const style = {
 const CalendarCard = ({ dayOfDecember }) => {
     const [isClicked, setIsClicked] = useState(false);
     const daysUntilChristmas = 24 - dayOfDecember;
-    console.log(isClicked);
     return (
         <div onClick={() => setIsClicked(!isClicked)} style={style}>
             {isClicked ? (
