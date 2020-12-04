@@ -4,7 +4,7 @@ A simple christmas calendar consisting of two seperate applications. `calendar-c
 
 ## Run project locally
 
-For each app run the following commands:
+For each app, open a terminal window and run the following commands:
 
 ```
 npm i
